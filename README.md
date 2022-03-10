@@ -1,1 +1,1 @@
-# Stock-Price-ExploratoryDataAnalysis
+# Stock Price Exploratory Data Analysis
